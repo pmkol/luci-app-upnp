@@ -226,3 +226,11 @@ msgstr ""
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:140
 msgid "Value in KByte/s, informational only"
 msgstr ""
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:181
+msgid "Force Forwarding"
+msgstr ""
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:182
+msgid "Force forwarding even there is no public IP (please try STUN first)"
+msgstr ""
