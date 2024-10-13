@@ -1,6 +1,6 @@
 {
 	"admin/network/upnp": {
-		"title": "UPnP IGD & PCP/NAT-PMP",
+		"title": "UPnP/NAT-PMP",
 		"order": 62,
 		"action": {
 			"type": "view",
