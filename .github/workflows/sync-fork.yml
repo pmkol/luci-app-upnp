@@ -15,7 +15,6 @@ jobs:
         with:
           ref: 'main'
           fetch-depth: 0
-          path: luci-app-upnp
 
       - name: Configure Git
         run: |
