@@ -258,3 +258,11 @@ msgstr "上传速度"
 msgctxt "Use %s (%s = STUN)"
 msgid "Use %s"
 msgstr "使用 %s"
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:174
+msgid "Allow private IPv4"
+msgstr "允许私有 IPv4 地址"
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:175
+msgid "Allow port forwarding when the external interface has a private IPv4 address. Use this if your upstream supports full-cone NAT (please try STUN first)"
+msgstr "当外部接口为私有IPv4地址时允许端口转发，适用于上游支持 full-cone NAT 的场景。（请先尝试 STUN）"

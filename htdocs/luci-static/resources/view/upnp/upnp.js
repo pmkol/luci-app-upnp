@@ -171,6 +171,9 @@ return view.extend({
 		o.datatype = 'port';
 		o.placeholder = '3478';
 
+		s.taboption('advanced', form.Flag, 'ext_allow_private_ipv4', _('Allow private IPv4'),
+			_('Allow port forwarding when the external interface has a private IPv4 address. Use this if your upstream supports full-cone NAT (please try STUN first)'))
+
 		o = s.taboption('advanced', form.Flag, 'secure_mode', _('Enable secure mode'),
 			_('Allow adding port maps for requesting IP addresses only'));
 		o.default = '1';

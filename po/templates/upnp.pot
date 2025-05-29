@@ -242,3 +242,11 @@ msgstr ""
 msgctxt "Use %s (%s = STUN)"
 msgid "Use %s"
 msgstr ""
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:174
+msgid "Allow private IPv4"
+msgstr ""
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:175
+msgid "Allow port forwarding when the external interface has a private IPv4 address. Use this if your upstream supports full-cone NAT (please try STUN first)"
+msgstr ""
